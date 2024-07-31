@@ -6,8 +6,9 @@ A texture pack that improves the visibility of Powdered Snow
 Follow the [guide](https://minecraft.wiki/w/Tutorials/Loading_a_resource_pack) on the wiki
 
 ## Latest Version
-```
-As of 22/07/24, The Latest Version of BPS is version 1.0.0
-```
+
+Each Minecraft Version corresponds to the Texture pack version, then the Texture Pack Version.
+BPS for 1.16.2 will be version 116.2.1
+
 ## License
 This Project is Licensed under the [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) License
