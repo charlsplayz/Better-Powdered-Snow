@@ -3,7 +3,7 @@
 A texture pack that improves the visibility of Powdered Snow
 
 ## Installation
-Follow the [guide](https://minecraft.wiki/w/Tutorials/Loading_a_resource_pack) on the wiki
+Follow the [guide](https://github.com/charlsplayz/Better-Powdered-Snow/wiki/Installing-a-Resource-Pack) on the wiki
 
 ## Latest Version
 
